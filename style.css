@@ -5,6 +5,22 @@ body {
   background: #ccc;
 }
 
+.logo {
+  width: 5em;
+  height: 5em;
+  margin-left: -3em;
+}
+
+.social {
+  width: 20%;
+  height: 20%;
+  margin-left: 10%;
+}
+
+.contact {
+  margin-top: 5em;
+}
+
 .nav li {
   font-family: 'Oswald', sans-serif;
   font-size: 1.2em;
