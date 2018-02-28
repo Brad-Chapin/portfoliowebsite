@@ -39,8 +39,17 @@ body {
   cursor: default;
 }
 
+.proj {
+  color: black;
+}
+
 h1 {
   margin-left: 1em;
+}
+
+h4 {
+  margin-left: 2em;
+  margin-right: 2em;
 }
 
 p {
