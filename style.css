@@ -6,8 +6,8 @@ body {
 }
 
 .logo {
-  width: 5em;
-  height: 5em;
+  width: 4em;
+  height: 4em;
   margin-left: -4em;
 }
 
@@ -27,6 +27,7 @@ body {
   line-height: 40px;
   height: 40px;
   border-bottom: 1px solid #888;
+  text-align: center;
 }
 
 .nav ul {
@@ -41,7 +42,7 @@ body {
 .nav a {
   text-decoration: none;
   color: #fff;
-  display: block;  
+  display: block;
   transition: .3s background-color;
 }
 
@@ -59,9 +60,9 @@ body {
   .nav li {
     width: 120px;
     border-bottom: none;
-    height: 50px;
-    line-height: 50px;
-    font-size: 1.4em;
+    height: 40px;
+    line-height: 40px;
+    font-size: 1.2em;
   }
 
 .proj {
