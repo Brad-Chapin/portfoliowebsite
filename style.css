@@ -8,7 +8,8 @@ body {
 .logo {
   width: 4em;
   height: 4em;
-  margin-left: -4em;
+  /* margin-left: -5.8em; */
+  /* margin-top: .5em; */
 }
 
 .social {
@@ -24,8 +25,8 @@ body {
 .nav li {
   font-family: 'Oswald', sans-serif;
   font-size: 1.2em;
-  line-height: 40px;
-  height: 40px;
+  line-height: 4em;
+  height: 4em;
   border-bottom: 1px solid #888;
   text-align: center;
 }
@@ -60,8 +61,8 @@ body {
   .nav li {
     width: 120px;
     border-bottom: none;
-    height: 40px;
-    line-height: 40px;
+    height: 4em;
+    line-height: 4em;
     font-size: 1.2em;
   }
 
